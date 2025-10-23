@@ -1,0 +1,19 @@
+{
+  "name": "cuci-sepatu-api",
+  "version": "1.0.0",
+  "description": "API untuk layanan cuci sepatu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.76.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
